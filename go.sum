@@ -1,8 +1,8 @@
-github.com/CovenantSQL/go-sqlite3-encrypt v1.9.0 h1:GPtIZW4KZhul21SrmmpgUCx+wEPhnFlzOceTtzMypzs=
-github.com/CovenantSQL/go-sqlite3-encrypt v1.9.0/go.mod h1:EH9sjhhyDGHNIj/Wx59f7CURbVp1C1x/eRVi07WPsvg=
 github.com/jinzhu/inflection v1.0.0 h1:K317FqzuhWc8YvSVlFMCCUb36O/S9MCKRDI7QkRKD/E=
 github.com/jinzhu/inflection v1.0.0/go.mod h1:h+uFLlag+Qp1Va5pdKtLDYj+kHp5pxUVkryuEj+Srlc=
 github.com/jinzhu/now v1.1.1 h1:g39TucaRWyV3dwDO++eEc6qf8TVIQ/Da48WmqjZ3i7E=
 github.com/jinzhu/now v1.1.1/go.mod h1:d3SSVoowX0Lcu0IBviAWJpolVfI5UJVZZ7cO71lE/z8=
-gorm.io/gorm v1.20.0 h1:qfIlyaZvrF7kMWY3jBdEBXkXJ2M5MFYMTppjILxS3fQ=
-gorm.io/gorm v1.20.0/go.mod h1:0HFTzE/SqkGTzK6TlDPPQbAYCluiVvhzoA1+aVyzenw=
+github.com/raulwalter/rw-sqlite3-encrypt v0.0.0-20210216092220-13207962e467 h1:O+9c2RU9Zq73PHvns+PeOP2gH375LDWpVA9rw/bO6jw=
+github.com/raulwalter/rw-sqlite3-encrypt v0.0.0-20210216092220-13207962e467/go.mod h1:oPNdK8NS85P5k7pVPQb4g+LgsxGYzUNALGik34evHnY=
+gorm.io/gorm v1.20.12 h1:ebZ5KrSHzet+sqOCVdH9mTjW91L298nX3v5lVxAzSUY=
+gorm.io/gorm v1.20.12/go.mod h1:0HFTzE/SqkGTzK6TlDPPQbAYCluiVvhzoA1+aVyzenw=

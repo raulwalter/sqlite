@@ -4,7 +4,7 @@ import (
 	"database/sql"
 	"strings"
 
-	_ "github.com/CovenantSQL/go-sqlite3-encrypt"
+	_ "github.com/raulwalter/rw-sqlite3-encrypt"
 	"gorm.io/gorm"
 	"gorm.io/gorm/callbacks"
 	"gorm.io/gorm/clause"
